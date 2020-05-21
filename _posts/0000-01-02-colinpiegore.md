@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bose - Buy other sound equipment
 Use the left arrow to go back!
